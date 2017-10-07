@@ -1,0 +1,36 @@
+body {
+	background-color: gray;
+	max-width: 1200px;
+	margin: 0 auto;
+	font-size: 40px;
+	text-align: center;
+}
+
+.container-fluid {
+	text-align:center;
+}
+
+.custom-img {
+	height: 500px;	
+	object-fit: cover;
+}
+
+.text-center {
+	padding-top: 30px;
+	margin-top: 60px;
+}
+
+.jumbotron {
+	background: #ffffff;
+	background: -webkit-linear-gradient(to left, #ffffff , #a3c1ad); 
+	background: linear-gradient(to left, #ffffff , #a3c1ad); 
+}
+
+h1 {
+	margin-bottom: 50px;
+}
+
+.media {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
